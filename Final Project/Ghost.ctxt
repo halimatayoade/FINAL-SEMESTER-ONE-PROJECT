@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ghost
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ghost\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Ghost()
+comment1.text=\r\n\ Constructor\ for\ Ghost\ class\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Ghost\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ Got\ the\ lines\ of\ code\ for\ the\ movemnet\ from\ my\ classmate\ Caelan\r\n\ This\ method\ controls\ how\ the\ ghost\ move.\ \r\n\ @return\ no\ return\ type\r\n\ @param\ no\ parameters\r\n\ \r\n
+numComments=3
